@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Bro!!!
+          This button's text was changed
         </a>
       </header>
     </div>
